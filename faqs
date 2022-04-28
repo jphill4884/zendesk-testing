@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>SFX - Zendesk Test</title>
+  </head>
+  <body>
+    <h1>FAQs</h1> 
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=719862e8-1ffa-472d-90e0-26ebfac84869"> </script>
+  </body>
+  <footer>
+  </footer>
+</html>
